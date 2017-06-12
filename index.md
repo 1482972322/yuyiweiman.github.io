@@ -1,32 +1,8 @@
 ## 欢迎来到羽翼未满的博客
 
-You can use the [editor on GitHub](https://github.com/1482972322/yuyiweiman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    彩蝶蹁跹，蜜蜂飞舞，在这阳光暖和的时节，人们拿着相机，按下快门，记录菊花与蜜蜂、蝴蝶相遇 、相恋、相知、相许的美好光景。菊花是暖冬的可人儿，带着花开的奔放，散发着多彩的颜色，放射着诱人的光芒，飘散着醉人的花香，在四季的尽头，将冬的单调，变成五彩斑斓的世界。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    菊花美，美在它开得极致而不自满；美在它开得绚烂而不骄傲；美在它开得艳丽却仍然保持一颗纯洁的心。它没有牡丹的雍容华贵；它没有芍药的霸气，没有荷花如仙的气质；没有薰衣草的罗曼蒂克；没有杜鹃如火燃烧的热烈。
 
 ### Jekyll Themes
 
